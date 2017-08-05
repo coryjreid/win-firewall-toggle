@@ -25,3 +25,7 @@ executable.
 **or**
 
 Download the `.bat` file, right-click, and run as Administrator.
+
+# License
+
+MIT
